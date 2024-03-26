@@ -10,3 +10,4 @@ File 6-update - updates all documents with attribute name="Holberton school" in 
 File 7-delete - deletes all documents that have name="Holberton school" in the school collection
 File 8-all.py - a python script that lists all the documents in a collection
 File 9-insert_school.py - inserts a new document in school collection based on kwargs
+File 10-update_topics.py - changes all topics of the school
