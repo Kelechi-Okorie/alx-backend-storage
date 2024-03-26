@@ -7,3 +7,4 @@ File 3-all - shows all the documents in the school collection
 File 4-match - lists all documents that match the criteria name="Holberton school" in the school collection
 File 5-count - displays number of documents in school collection
 File 6-update - updates all documents with attribute name="Holberton school" in the school collection
+File 7-delete - deletes all documents that have name="Holberton school" in the school collection
