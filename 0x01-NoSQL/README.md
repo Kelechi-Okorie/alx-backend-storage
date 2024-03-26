@@ -9,3 +9,4 @@ File 5-count - displays number of documents in school collection
 File 6-update - updates all documents with attribute name="Holberton school" in the school collection
 File 7-delete - deletes all documents that have name="Holberton school" in the school collection
 File 8-all.py - a python script that lists all the documents in a collection
+File 9-insert_school.py - inserts a new document in school collection based on kwargs
